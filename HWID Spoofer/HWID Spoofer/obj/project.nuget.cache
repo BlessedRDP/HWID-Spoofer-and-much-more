@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gF/syzzpjbU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pc\\source\\repos\\HWID Spoofer\\HWID Spoofer\\HWID Spoofer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\system.codedom\\9.0.2\\system.codedom.9.0.2.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\system.management\\9.0.2\\system.management.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

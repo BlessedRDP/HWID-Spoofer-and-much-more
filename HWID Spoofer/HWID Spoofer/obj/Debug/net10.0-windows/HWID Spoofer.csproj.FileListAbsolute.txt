@@ -1,0 +1,19 @@
+C:\Users\pc\source\repos\HWID Spoofer\HWID Spoofer\bin\Debug\net10.0-windows\HWID Spoofer.exe
+C:\Users\pc\source\repos\HWID Spoofer\HWID Spoofer\bin\Debug\net10.0-windows\HWID Spoofer.deps.json
+C:\Users\pc\source\repos\HWID Spoofer\HWID Spoofer\bin\Debug\net10.0-windows\HWID Spoofer.runtimeconfig.json
+C:\Users\pc\source\repos\HWID Spoofer\HWID Spoofer\bin\Debug\net10.0-windows\HWID Spoofer.dll
+C:\Users\pc\source\repos\HWID Spoofer\HWID Spoofer\bin\Debug\net10.0-windows\HWID Spoofer.pdb
+C:\Users\pc\source\repos\HWID Spoofer\HWID Spoofer\bin\Debug\net10.0-windows\System.CodeDom.dll
+C:\Users\pc\source\repos\HWID Spoofer\HWID Spoofer\bin\Debug\net10.0-windows\System.Management.dll
+C:\Users\pc\source\repos\HWID Spoofer\HWID Spoofer\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\System.Management.dll
+C:\Users\pc\source\repos\HWID Spoofer\HWID Spoofer\obj\Debug\net10.0-windows\HWID Spoofer.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\HWID Spoofer\HWID Spoofer\obj\Debug\net10.0-windows\HWID Spoofer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\HWID Spoofer\HWID Spoofer\obj\Debug\net10.0-windows\HWID Spoofer.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\HWID Spoofer\HWID Spoofer\obj\Debug\net10.0-windows\HWID Spoofer.AssemblyInfo.cs
+C:\Users\pc\source\repos\HWID Spoofer\HWID Spoofer\obj\Debug\net10.0-windows\HWID Spoofer.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\HWID Spoofer\HWID Spoofer\obj\Debug\net10.0-windows\HWID Spo.62AE23F8.Up2Date
+C:\Users\pc\source\repos\HWID Spoofer\HWID Spoofer\obj\Debug\net10.0-windows\HWID Spoofer.dll
+C:\Users\pc\source\repos\HWID Spoofer\HWID Spoofer\obj\Debug\net10.0-windows\refint\HWID Spoofer.dll
+C:\Users\pc\source\repos\HWID Spoofer\HWID Spoofer\obj\Debug\net10.0-windows\HWID Spoofer.pdb
+C:\Users\pc\source\repos\HWID Spoofer\HWID Spoofer\obj\Debug\net10.0-windows\HWID Spoofer.genruntimeconfig.cache
+C:\Users\pc\source\repos\HWID Spoofer\HWID Spoofer\obj\Debug\net10.0-windows\ref\HWID Spoofer.dll

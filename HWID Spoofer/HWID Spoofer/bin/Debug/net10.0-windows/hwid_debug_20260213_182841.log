@@ -1,0 +1,396 @@
+
+=                                                     
+  SYSTEM ENVIRONMENT
+=                                                     
+  OS Version                               Microsoft Windows NT 10.0.19045.0
+  64-bit OS                                True
+  64-bit Process                           True
+  Machine Name (.NET)                      DESKTOP-RGBDM6C
+  User Name                                pc
+  CLR Version                              10.0.3
+  Admin Privileges                         True
+  Current Time                             2026-02-13 18:28:39
+  System Boot                              2026-02-13 17:03:00 (uptime: 0.01:25:39)
+
+=                                                     
+  REGISTRY — Machine GUID
+=                                                     
+    MachineGuid                            66bf99e2-40ca-47bc-ba6a-aafb065fde90
+
+=                                                     
+  REGISTRY — Computer Name
+=                                                     
+    ComputerName                           DESKTOP-RGBDM6C
+    ComputerName                           DESKTOP-3JWGPQO
+    Hostname                               DESKTOP-3JWGPQO
+    NV Hostname                            DESKTOP-3JWGPQO
+
+=                                                     
+  REGISTRY — BIOS / SystemInformation
+=                                                     
+    SystemManufacturer                     Lenovo
+    SystemProductName                      System Product 1APFYI
+    SystemVersion                          v7.52
+    BIOSVendor                             Insyde Corp.
+    BIOSVersion                            3IVZ.348
+    BIOSReleaseDate                        10/16/2025
+    BaseBoardManufacturer                  Lenovo
+    BaseBoardProduct                       BASE-CEH5V48E
+    BaseBoardVersion                       Rev 5.07
+    ComputerHardwareId                     {fc5a8703-5269-4a03-8331-96140a0f1c11}
+
+=                                                     
+  REGISTRY — BIOS HARDWARE\DESCRIPTION
+=                                                     
+    SystemManufacturer                     Lenovo
+    SystemProductName                      System Product 1APFYI
+    SystemVersion                          v7.52
+    BIOSVendor                             Insyde Corp.
+    BIOSVersion                            3IVZ.348
+    BIOSReleaseDate                        10/16/2025
+    BaseBoardManufacturer                  Lenovo
+    BaseBoardProduct                       BASE-CEH5V48E
+    BaseBoardVersion                       Rev 5.07
+    ComputerHardwareId                     (not set)
+
+=                                                     
+  REGISTRY — HardwareConfig
+=                                                     
+    LastConfig                             6b74d0b0-624c-4ef0-b3e2-8f4c6bec4570
+    SubKey                                 6b74d0b0-624c-4ef0-b3e2-8f4c6bec4570
+    SubKey                                 896a8031-91c7-45d6-8bfb-be62bee751a4
+    SubKey                                 {032e02b4-0499-05d4-c306-b70700080009}
+    SubKey                                 Current
+
+=                                                     
+  REGISTRY — Windows Product ID
+=                                                     
+    ProductId                              61929-93039-02932-57705
+    BuildGUID                              a53b0b86-a5bf-4a1c-9f1e-e5032c0204f1
+    BuildLab                               19041.vb_release.191206-1406
+    BuildLabEx                             19041.1.amd64fre.vb_release.191206-1406
+    EditionID                              Enterprise
+    CurrentBuild                           19045
+    InstallDate                            1764437295
+  DigitalProductId                         [164 bytes] A4-00-00-00-73-78-2C-A2-8C-8B-FE-AD-BE-F0-9E-22...
+  DigitalProductId4                        [1272 bytes] F8-04-00-00-3F-6F-29-56-7F-05-3C-27-6C-B3-A3-DE...
+
+=                                                     
+  REGISTRY — Network Adapters (MAC)
+=                                                     
+    [0000] Microsoft Kernel Debug Network Adapter 
+         NetworkAddress                    B62FB8DCFCFB
+         OriginalNetworkAddress            (not set)
+         ComponentId                       root\kdnic
+    [0001] WAN Miniport (SSTP)             
+         NetworkAddress                    C217CA1FE703
+         OriginalNetworkAddress            (not set)
+         ComponentId                       ms_sstpminiport
+    [0002] TAP-Windows Adapter V9 for OpenVPN Connect 
+         NetworkAddress                    AEAD7303CED5
+         OriginalNetworkAddress            (not set)
+         ComponentId                       tap_ovpnconnect
+    [0003] TunnelBear Adapter V9           
+         NetworkAddress                    8673B683BB28
+         OriginalNetworkAddress            (not set)
+         ComponentId                       tap-tb-0901
+    [0004] WAN Miniport (IKEv2)            
+         NetworkAddress                    (not set)
+         OriginalNetworkAddress            (not set)
+         ComponentId                       ms_agilevpnminiport
+    [0005] WAN Miniport (L2TP)             
+         NetworkAddress                    7EAED26172F6
+         OriginalNetworkAddress            (not set)
+         ComponentId                       ms_l2tpminiport
+    [0006] WAN Miniport (PPTP)             
+         NetworkAddress                    C29D5BD8D3DC
+         OriginalNetworkAddress            (not set)
+         ComponentId                       ms_pptpminiport
+    [0007] WAN Miniport (PPPOE)            
+         NetworkAddress                    DE4F5B978E1F
+         OriginalNetworkAddress            (not set)
+         ComponentId                       ms_pppoeminiport
+    [0008] WAN Miniport (IP)               
+         NetworkAddress                    AA61F9FE09B2
+         OriginalNetworkAddress            (not set)
+         ComponentId                       ms_ndiswanip
+    [0009] WAN Miniport (IPv6)             
+         NetworkAddress                    EA3F191F70D0
+         OriginalNetworkAddress            (not set)
+         ComponentId                       ms_ndiswanipv6
+    [0010] WAN Miniport (Network Monitor)  
+         NetworkAddress                    B21EB35C0BB1
+         OriginalNetworkAddress            (not set)
+         ComponentId                       ms_ndiswanbh
+    [0011] Intel(R) Ethernet Connection (7) I219-V 
+         NetworkAddress                    8A5B9FECA17E
+         OriginalNetworkAddress            (not set)
+         ComponentId                       PCI\VEN_8086&DEV_15BC
+    [0012] HotspotShield TAP-Windows Adapter V9 
+         NetworkAddress                    D2E09CA9ECCC
+         OriginalNetworkAddress            (not set)
+         ComponentId                       hsstap
+    [0013] VirtualBox Host-Only Ethernet Adapter 
+         NetworkAddress                    56144C911A02
+         OriginalNetworkAddress            (not set)
+         ComponentId                       sun_vboxnetadp
+    [0014] Windscribe VPN                  
+         NetworkAddress                    2A6844F521AF
+         OriginalNetworkAddress            (not set)
+         ComponentId                       tapwindscribe0901
+    [0015] Windscribe Windtun420           
+         NetworkAddress                    06AE11B7A82D
+         OriginalNetworkAddress            (not set)
+         ComponentId                       windtun420
+    [0016] OpenVPN Data Channel Offload    
+         NetworkAddress                    (not set)
+         OriginalNetworkAddress            (not set)
+         ComponentId                       ovpn-dco
+    [0017] TAP-Windows Adapter V9          
+         NetworkAddress                    8232B1B454CC
+         OriginalNetworkAddress            (not set)
+         ComponentId                       root\tap0901
+
+=                                                     
+  REGISTRY — SCSI Device Map (Disk Serials)
+=                                                     
+      [Scsi Port 0]                        
+        Interrupt                          5
+        Dma64BitAddresses                  1
+        Driver                             iaStorAVC
+        [Scsi Bus 0]                       
+          [Initiator Id 255]               
+          [Target Id 1]                    
+            [Logical Unit Id 0]            
+              InquiryData                  37OBT6JZ2PXVF
+              SerialNumber                 20HHFHL0YGCF45UGJGVT
+              Identifier                   S4MLZTEDZFGF618VABMQ
+              DeviceType                   DiskPeripheral
+              DeviceIdentifierPage         [Binary]  ? T PS??+? DATA     Samsung SSD 840 EVO 120GB               S1D5NSAF365656D     
+          [Target Id 2]                    
+            [Logical Unit Id 0]            
+              InquiryData                  XF3B9KTR9DVPP
+              SerialNumber                 XUIBSO90KCUNTTRPYAJE
+              Identifier                   NJYYB9O4QZ5ZPQS6YAP9
+              DeviceType                   DiskPeripheral
+              DeviceIdentifierPage         [Binary]  ? T PS?p:?| DATA     Samsung SSD 750 EVO 500GB               S36SNWAH965751A     
+          [Target Id 4]                    
+            [Logical Unit Id 0]            
+              InquiryData                  DJ88Y5ZKNB5HF
+              SerialNumber                 IX7K00R6VADGP2O1R0SI
+              Identifier                   8M3KGWO26MUULVD0CR9B
+              DeviceType                   DiskPeripheral
+              DeviceIdentifierPage         [Binary]  ? T P ? m?I_ DATA     ST1000DM003-1CH162                                  S1DHRVNP
+        [Scsi Bus 1]                       
+          [Initiator Id 255]               
+        [Scsi Bus 2]                       
+          [Initiator Id 255]               
+        [Scsi Bus 3]                       
+          [Initiator Id 255]               
+        [Scsi Bus 4]                       
+          [Initiator Id 255]               
+        [Scsi Bus 5]                       
+          [Initiator Id 255]               
+        [Scsi Bus 6]                       
+          [Initiator Id 255]               
+        [Scsi Bus 7]                       
+          [Initiator Id 255]               
+      [Scsi Port 1]                        
+        Interrupt                          11
+        Dma64BitAddresses                  1
+        Driver                             stornvme
+        [Scsi Bus 0]                       
+          [Initiator Id 255]               
+          [Target Id 0]                    
+            [Logical Unit Id 0]            
+              InquiryData                  0RJJ94YG3ASQ2
+              SerialNumber                 VONE8FYNJXH5U9R6JGCK
+              Identifier                   PGHGV2QG87PJ0ZCVGXOD
+              DeviceType                   DiskPeripheral
+              DeviceIdentifierPage         [Binary]  ? ( $eui.00000000000000000026B7381361D945
+      [Scsi Port 2]                        
+        Dma64BitAddresses                  1
+        Driver                             Xvdd
+        [Scsi Bus 0]                       
+          [Initiator Id 255]               
+
+=                                                     
+  WMI — Win32_BIOS
+=                                                     
+    SerialNumber                           Default string
+    Manufacturer                           American Megatrends Inc.
+    Version                                ALASKA - 1072009
+    ReleaseDate                            20200916000000.000000+000
+    SMBIOSBIOSVersion                      F9l
+
+=                                                     
+  WMI — Win32_BaseBoard
+=                                                     
+    Product                                Z390 M GAMING-CF
+    Manufacturer                           Gigabyte Technology Co., Ltd.
+    SerialNumber                           Default string
+    Version                                x.x
+
+=                                                     
+  WMI — Win32_ComputerSystem
+=                                                     
+    Name                                   DESKTOP-RGBDM6C
+    Manufacturer                           Gigabyte Technology Co., Ltd.
+    Model                                  Z390 M GAMING
+    SystemType                             x64-based PC
+    TotalPhysicalMemory                    17109557248
+
+=                                                     
+  WMI — Win32_ComputerSystemProduct
+=                                                     
+    UUID                                   032E02B4-0499-05D4-C306-B70700080009
+    IdentifyingNumber                      Default string
+    Name                                   Z390 M GAMING
+    Vendor                                 Gigabyte Technology Co., Ltd.
+
+=                                                     
+  WMI — Win32_DiskDrive
+=                                                     
+    SerialNumber                                       S1DHRVNP
+    Model                                  ST1000DM003-1CH162
+    InterfaceType                          SCSI
+    FirmwareRevision                       CC49
+    PNPDeviceID                            SCSI\DISK&VEN_ST1000DM&PROD_003-1CH162\4&2A46AFF8&0&000400
+    ---                                    
+    SerialNumber                           0000_0000_0000_0000_0026_B738_1361_D945.
+    Model                                  KINGSTON SNVS500G
+    InterfaceType                          SCSI
+    FirmwareRevision                       S8H40104
+    PNPDeviceID                            SCSI\DISK&VEN_NVME&PROD_KINGSTON_SNVS500\5&3007CA84&0&000000
+    ---                                    
+    SerialNumber                           S36SNWAH965751A
+    Model                                  Samsung SSD 750 EVO 500GB
+    InterfaceType                          SCSI
+    FirmwareRevision                       MAT01B6Q
+    PNPDeviceID                            SCSI\DISK&VEN_SAMSUNG&PROD_SSD\4&2A46AFF8&0&000200
+    ---                                    
+    SerialNumber                           S1D5NSAF365656D
+    Model                                  Samsung SSD 840 EVO 120GB
+    InterfaceType                          SCSI
+    FirmwareRevision                       EXT0BB6Q
+    PNPDeviceID                            SCSI\DISK&VEN_SAMSUNG&PROD_SSD\4&2A46AFF8&0&000100
+
+=                                                     
+  WMI — Win32_NetworkAdapterConfiguration (MAC)
+=                                                     
+    MACAddress                             B4:2E:99:D4:C3:B7
+    Description                            Intel(R) Ethernet Connection (7) I219-V
+    DHCPServer                             192.168.1.1
+    ---                                    
+    MACAddress                             0A:00:27:00:00:0C
+    Description                            VirtualBox Host-Only Ethernet Adapter
+    DHCPServer                             (null)
+
+=                                                     
+  WMI — Win32_OperatingSystem
+=                                                     
+    SerialNumber                           61929-93039-02932-57705
+    InstallDate                            20251129182815.000000+060
+    Caption                                Microsoft Windows 10 Enterprise
+    Version                                10.0.19045
+    BuildNumber                            19045
+
+=                                                     
+  WMI — Win32_Processor
+=                                                     
+    ProcessorId                            BFEBFBFF000906ED
+    Name                                   Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz
+    Manufacturer                           GenuineIntel
+    UniqueId                               (null)
+
+=                                                     
+  .NET — NetworkInterface.GetAllNetworkInterfaces()
+=                                                     
+    Local Area Connection                  Type=53, MAC=AEAD7303CED5, Status=Down
+    Local Area Connection 3                Type=53, MAC=, Status=Down
+    HotspotShield Network Adapter          Type=53, MAC=00FFD8967FF6, Status=Down
+    Ethernet 2                             Type=Ethernet, MAC=00FF2BE68308, Status=Down
+    Ethernet                               Type=Ethernet, MAC=B42E99D4C3B7, Status=Up
+    Ethernet 3                             Type=Ethernet, MAC=0A002700000C, Status=Up
+    Local Area Connection 2                Type=53, MAC=00FF43363100, Status=Down
+    PrivadoVPN (OpenVPN DCO)               Type=53, MAC=, Status=Down
+    PrivadoVPN (OpenVPN)                   Type=53, MAC=00FF1276A7C2, Status=Down
+    Ethernet 2-WFP Native MAC Layer LightWeight Filter-0000 Type=Ethernet, MAC=00FF2BE68308, Status=Down
+    Ethernet 2-ExitLag NDIS LightWeight Filter-0000 Type=Ethernet, MAC=00FF2BE68308, Status=Down
+    Ethernet 2-Npcap Packet Driver (NPCAP)-0000 Type=Ethernet, MAC=00FF2BE68308, Status=Down
+    Ethernet 2-VirtualBox NDIS Light-Weight Filter-0000 Type=Ethernet, MAC=00FF2BE68308, Status=Down
+    Ethernet 2-QoS Packet Scheduler-0000   Type=Ethernet, MAC=00FF2BE68308, Status=Down
+    Ethernet 2-WFP 802.3 MAC Layer LightWeight Filter-0000 Type=Ethernet, MAC=00FF2BE68308, Status=Down
+    Ethernet 3-WFP Native MAC Layer LightWeight Filter-0000 Type=Ethernet, MAC=0A002700000C, Status=Up
+    Ethernet 3-ExitLag NDIS LightWeight Filter-0000 Type=Ethernet, MAC=0A002700000C, Status=Up
+    Ethernet 3-Npcap Packet Driver (NPCAP)-0000 Type=Ethernet, MAC=0A002700000C, Status=Up
+    Ethernet 3-QoS Packet Scheduler-0000   Type=Ethernet, MAC=0A002700000C, Status=Up
+    Ethernet 3-WFP 802.3 MAC Layer LightWeight Filter-0000 Type=Ethernet, MAC=0A002700000C, Status=Up
+    Ethernet-WFP Native MAC Layer LightWeight Filter-0000 Type=Ethernet, MAC=B42E99D4C3B7, Status=Up
+    Ethernet-ExitLag NDIS LightWeight Filter-0000 Type=Ethernet, MAC=B42E99D4C3B7, Status=Up
+    Ethernet-Npcap Packet Driver (NPCAP)-0000 Type=Ethernet, MAC=B42E99D4C3B7, Status=Up
+    Ethernet-VirtualBox NDIS Light-Weight Filter-0000 Type=Ethernet, MAC=B42E99D4C3B7, Status=Up
+    Ethernet-QoS Packet Scheduler-0000     Type=Ethernet, MAC=B42E99D4C3B7, Status=Up
+    Ethernet-WFP 802.3 MAC Layer LightWeight Filter-0000 Type=Ethernet, MAC=B42E99D4C3B7, Status=Up
+    Local Area Connection* 7-WFP Native MAC Layer LightWeight Filter-0000 Type=Ethernet, MAC=, Status=Up
+    Local Area Connection* 7-ExitLag NDIS LightWeight Filter-0000 Type=Ethernet, MAC=, Status=Up
+    Local Area Connection* 7-Npcap Packet Driver (NPCAP)-0000 Type=Ethernet, MAC=, Status=Up
+    Local Area Connection* 7-QoS Packet Scheduler-0000 Type=Ethernet, MAC=, Status=Up
+    Local Area Connection* 6-WFP Native MAC Layer LightWeight Filter-0000 Type=Ethernet, MAC=, Status=Up
+    Local Area Connection* 6-ExitLag NDIS LightWeight Filter-0000 Type=Ethernet, MAC=, Status=Up
+    Local Area Connection* 6-Npcap Packet Driver (NPCAP)-0000 Type=Ethernet, MAC=, Status=Up
+    Local Area Connection* 6-QoS Packet Scheduler-0000 Type=Ethernet, MAC=, Status=Up
+    Local Area Connection* 8-WFP Native MAC Layer LightWeight Filter-0000 Type=Ethernet, MAC=, Status=Up
+    Local Area Connection* 8-ExitLag NDIS LightWeight Filter-0000 Type=Ethernet, MAC=, Status=Up
+    Local Area Connection* 8-Npcap Packet Driver (NPCAP)-0000 Type=Ethernet, MAC=, Status=Up
+    Local Area Connection* 8-QoS Packet Scheduler-0000 Type=Ethernet, MAC=, Status=Up
+    Ethernet (Kernel Debugger)             Type=Ethernet, MAC=, Status=NotPresent
+    Local Area Connection* 6               Type=Ethernet, MAC=, Status=Up
+    Local Area Connection* 7               Type=Ethernet, MAC=, Status=Up
+    Local Area Connection* 8               Type=Ethernet, MAC=, Status=Up
+    Local Area Connection* 5               Type=Ppp, MAC=, Status=Down
+    Local Area Connection 3-ExitLag NDIS LightWeight Filter-0000 Type=53, MAC=, Status=Down
+    Local Area Connection-WFP Native MAC Layer LightWeight Filter-0000 Type=53, MAC=AEAD7303CED5, Status=Down
+    Local Area Connection-ExitLag NDIS LightWeight Filter-0000 Type=53, MAC=AEAD7303CED5, Status=Down
+    HotspotShield Network Adapter-WFP Native MAC Layer LightWeight Filter-0000 Type=53, MAC=00FFD8967FF6, Status=Down
+    Local Area Connection-Npcap Packet Driver (NPCAP)-0000 Type=53, MAC=AEAD7303CED5, Status=Down
+    Local Area Connection-VirtualBox NDIS Light-Weight Filter-0000 Type=53, MAC=AEAD7303CED5, Status=Down
+    HotspotShield Network Adapter-ExitLag NDIS LightWeight Filter-0000 Type=53, MAC=00FFD8967FF6, Status=Down
+    Local Area Connection-QoS Packet Scheduler-0000 Type=53, MAC=AEAD7303CED5, Status=Down
+    Local Area Connection 2-WFP Native MAC Layer LightWeight Filter-0000 Type=53, MAC=00FF43363100, Status=Down
+    HotspotShield Network Adapter-Npcap Packet Driver (NPCAP)-0000 Type=53, MAC=00FFD8967FF6, Status=Down
+    HotspotShield Network Adapter-VirtualBox NDIS Light-Weight Filter-0000 Type=53, MAC=00FFD8967FF6, Status=Down
+    Local Area Connection 2-ExitLag NDIS LightWeight Filter-0000 Type=53, MAC=00FF43363100, Status=Down
+    HotspotShield Network Adapter-QoS Packet Scheduler-0000 Type=53, MAC=00FFD8967FF6, Status=Down
+    Local Area Connection-WFP 802.3 MAC Layer LightWeight Filter-0000 Type=53, MAC=AEAD7303CED5, Status=Down
+    Local Area Connection 2-Npcap Packet Driver (NPCAP)-0000 Type=53, MAC=00FF43363100, Status=Down
+    PrivadoVPN (OpenVPN DCO)-ExitLag NDIS LightWeight Filter-0000 Type=53, MAC=, Status=Down
+    Local Area Connection 2-VirtualBox NDIS Light-Weight Filter-0000 Type=53, MAC=00FF43363100, Status=Down
+    Local Area Connection 2-QoS Packet Scheduler-0000 Type=53, MAC=00FF43363100, Status=Down
+    HotspotShield Network Adapter-WFP 802.3 MAC Layer LightWeight Filter-0000 Type=53, MAC=00FFD8967FF6, Status=Down
+    PrivadoVPN (OpenVPN)-WFP Native MAC Layer LightWeight Filter-0000 Type=53, MAC=00FF1276A7C2, Status=Down
+    PrivadoVPN (OpenVPN)-ExitLag NDIS LightWeight Filter-0000 Type=53, MAC=00FF1276A7C2, Status=Down
+    Local Area Connection 2-WFP 802.3 MAC Layer LightWeight Filter-0000 Type=53, MAC=00FF43363100, Status=Down
+    PrivadoVPN (OpenVPN)-Npcap Packet Driver (NPCAP)-0000 Type=53, MAC=00FF1276A7C2, Status=Down
+    PrivadoVPN (OpenVPN)-VirtualBox NDIS Light-Weight Filter-0000 Type=53, MAC=00FF1276A7C2, Status=Down
+    PrivadoVPN (OpenVPN)-QoS Packet Scheduler-0000 Type=53, MAC=00FF1276A7C2, Status=Down
+    PrivadoVPN (OpenVPN)-WFP 802.3 MAC Layer LightWeight Filter-0000 Type=53, MAC=00FF1276A7C2, Status=Down
+    Teredo Tunneling Pseudo-Interface      Type=Tunnel, MAC=00000000000000E0, Status=NotPresent
+    Microsoft IP-HTTPS Platform Interface  Type=Tunnel, MAC=, Status=NotPresent
+    6to4 Adapter                           Type=Tunnel, MAC=, Status=NotPresent
+    Local Area Connection* 1               Type=Tunnel, MAC=, Status=Down
+    Local Area Connection* 2               Type=Tunnel, MAC=, Status=Down
+    Local Area Connection* 3               Type=Tunnel, MAC=, Status=Down
+    Local Area Connection* 4               Type=Tunnel, MAC=, Status=Down
+
+=                                                     
+  CONSISTENCY CHECKS
+=                                                     
+    Computer Name                          MATCH ✓ (Environment.MachineName = Registry ActiveComputerName = 'DESKTOP-RGBDM6C')
+  [WARN]    Computer Name (pending): MISMATCH — Registry Active='DESKTOP-RGBDM6C' ≠ Registry Pending='DESKTOP-3JWGPQO'
+
+=                                                     
+  DIAGNOSTIC SUMMARY
+=                                                     
+  Total Errors                             0
+  Total Warnings                           1
